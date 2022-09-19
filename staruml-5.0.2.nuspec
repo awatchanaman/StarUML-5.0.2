@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>staruml-5.0.2-dev</id>
+    <version>5.0.2</version>
+    <title>StarUML-5.0.2-dev (Install)</title>
+    <authors>Viac Anthony</authors>
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <tags>staruml-5.0.2-dev SPACE_SEPARATED</tags>
+    <summary>__REPLACE__</summary>
+    <description>logiciel de modelisation</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
