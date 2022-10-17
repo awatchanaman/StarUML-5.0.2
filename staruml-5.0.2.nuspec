@@ -5,9 +5,9 @@
     <version>5.0.2</version>
     <title>StarUML-5.0.2 (Install)</title>
     <authors>Viac Anthony</authors>
-    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <projectUrl>https://staruml.io/</projectUrl>
     <tags>staruml-5.0.2</tags>
-    <summary>__REPLACE__</summary>
+    <summary>StarUML</summary>
     <description>logiciel de modelisation</description>
   </metadata>
   <files>
