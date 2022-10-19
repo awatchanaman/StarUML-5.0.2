@@ -4,7 +4,8 @@
     <id>staruml5</id>
     <version>5.0.2</version>
     <title>StarUML-5.0.2 (Install)</title>
-    <authors>Viac Anthony</authors>
+    <owners>awatchanaman</owners>
+    <authors>MKLab</authors>
     <projectUrl>https://staruml.io/</projectUrl>
     <tags>staruml uml  modeler erd</tags>
     <summary>a sophisticated software modeler</summary>
