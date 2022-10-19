@@ -31,16 +31,16 @@ The key features of StarUML are:
 * Automatic updates.
 
 StarUML 3 is a commercial software, although there is no time limit for evaluation, you should buy licenses [here](http://staruml.io/buy).</description>
-    <copyright>2014-2022 MKLab</copyright>
-    <licenseUrl>http://staruml.io/buy</licenseUrl>
+	  <copyright>2014-2022 MKLab</copyright>
+	  <licenseUrl>http://staruml.io/buy</licenseUrl>
 	  <packageSourceUrl>https://github.com/awatchanaman/StarUML-5.0.2</packageSourceUrl>
-	  <docsUrl>http://docs.staruml.io/en/latest/</docsUrl>
+	  <docsUrl>https://docs.staruml.io/</docsUrl>
 	  <mailingListUrl>https://groups.google.com/forum/#!forum/staruml</mailingListUrl>
 	  <bugTrackerUrl>http://staruml.uservoice.com/forums/245359-feature-request</bugTrackerUrl>
 	  <projectSourceUrl>http://staruml.io/faq</projectSourceUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://staruml.io/image/staruml_logo.png</iconUrl>
-    <releaseNotes>[Release Notes](http://staruml.io/download)</releaseNotes>
+	  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  <iconUrl>https://staruml.io/image/staruml_logo.png</iconUrl>
+	  <releaseNotes>[Release Notes](http://staruml.io/download)</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
