@@ -6,9 +6,9 @@
     <title>StarUML-5.0.2 (Install)</title>
     <authors>Viac Anthony</authors>
     <projectUrl>https://staruml.io/</projectUrl>
-    <tags>staruml-5.0.2</tags>
-    <summary>StarUML</summary>
-    <description>logiciel de modelisation</description>
+    <tags>staruml uml  modeler erd</tags>
+    <summary>a sophisticated software modeler</summary>
+    <description>a sophisticated software modeler</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
