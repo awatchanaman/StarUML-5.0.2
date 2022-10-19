@@ -11,7 +11,7 @@
     <description>a sophisticated software modeler</description>
     <copyright>2014-2022 MKLab</copyright>
     <licenseUrl>http://staruml.io/buy</licenseUrl>
-	  <packageSourceUrl>https://github.com/Thieum/ChocolateyPackages/tree/master/staruml2</packageSourceUrl>
+	  <packageSourceUrl>https://github.com/awatchanaman/StarUML-5.0.2</packageSourceUrl>
 	  <docsUrl>http://docs.staruml.io/en/latest/</docsUrl>
 	  <mailingListUrl>https://groups.google.com/forum/#!forum/staruml</mailingListUrl>
 	  <bugTrackerUrl>http://staruml.uservoice.com/forums/245359-feature-request</bugTrackerUrl>
