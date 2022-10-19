@@ -8,7 +8,29 @@
     <projectUrl>https://staruml.io/</projectUrl>
     <tags>staruml uml  modeler erd</tags>
     <summary>a sophisticated software modeler</summary>
-    <description>a sophisticated software modeler</description>
+    <description>The main targets of users are:
+* Agile and small development teams
+* Professional persons
+* Educational institutes.
+
+The key features of StarUML are:
+* Multi-platform support (MacOS, Windows and Linux)
+* UML 2.x standard compliant
+* Entity-Relationship diagram (ERD)
+* Data-flow diagram (DFD)
+* Flowchart diagram
+* Multiple windows
+* Modern UX
+* Dark and light themes
+* Retina (High-DPI) display support
+* Model-driven development
+* Open APIs
+* Various third-party extensions
+* Asynchronous model validation
+* Export to HTML docs
+* Automatic updates.
+
+StarUML 3 is a commercial software, although there is no time limit for evaluation, you should buy licenses [here](http://staruml.io/buy).</description>
     <copyright>2014-2022 MKLab</copyright>
     <licenseUrl>http://staruml.io/buy</licenseUrl>
 	  <packageSourceUrl>https://github.com/awatchanaman/StarUML-5.0.2</packageSourceUrl>
@@ -17,6 +39,7 @@
 	  <bugTrackerUrl>http://staruml.uservoice.com/forums/245359-feature-request</bugTrackerUrl>
 	  <projectSourceUrl>http://staruml.io/faq</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://staruml.io/image/staruml_logo.png</iconUrl>
     <releaseNotes>[Release Notes](http://staruml.io/download)</releaseNotes>
   </metadata>
   <files>
