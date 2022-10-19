@@ -9,6 +9,15 @@
     <tags>staruml uml  modeler erd</tags>
     <summary>a sophisticated software modeler</summary>
     <description>a sophisticated software modeler</description>
+    <copyright>2014-2022 MKLab</copyright>
+    <licenseUrl>http://staruml.io/buy</licenseUrl>
+	    <packageSourceUrl>https://github.com/Thieum/ChocolateyPackages/tree/master/staruml2</packageSourceUrl>
+	    <docsUrl>http://docs.staruml.io/en/latest/</docsUrl>
+	    <mailingListUrl>https://groups.google.com/forum/#!forum/staruml</mailingListUrl>
+	    <bugTrackerUrl>http://staruml.uservoice.com/forums/245359-feature-request</bugTrackerUrl>
+      <projectSourceUrl>http://staruml.io/faq</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>[Release Notes](http://staruml.io/download)</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
