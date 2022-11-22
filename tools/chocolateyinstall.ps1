@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = $url
 
-  softwareName  = 'staruml5'
+  softwareName  = 'staruml'
 
   checksum      = '707ADCD61D2E4AA5D88B92F5F10776AD15E99EF796EF4C49D1477C3E2DA7B910'
   checksumType  = 'sha256'
